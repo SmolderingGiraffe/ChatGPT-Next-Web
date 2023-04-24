@@ -15,4 +15,4 @@ export default async function App() {
   );
 }
 
-export const runtime = "experimental-edge";
+export const runtime = "edge";
